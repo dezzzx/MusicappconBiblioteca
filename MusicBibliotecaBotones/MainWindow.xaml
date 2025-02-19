@@ -13,7 +13,7 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid>
-        <comp:BotonExplorador Margin="0,-510,240,0"></comp:BotonExplorador>
+        <comp:BotonExplorador Margin="0,-514,260,0"></comp:BotonExplorador>
         <comp:BotonCancelar HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,10,0"/>
         <comp:BotonAdelante Margin="240,330,20,0"></comp:BotonAdelante>
         <comp:BotonPausar Margin="0,330,0,0"></comp:BotonPausar>
