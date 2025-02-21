@@ -9,12 +9,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <None Remove="Imagenes\LGN.png" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <Reference Include="LibreriaComponentesWPF">
-	    <HintPath>..\..\..\..\...\LibreriaComponentesWPF\LibreriaComponentesWPF\bin\Debug\net8.0-windows\LibreriaComponentesWPF.dll</HintPath>
+	    <HintPath>LibreriaComponentesWPF\libs\LibreriaComponentesWPF.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 
