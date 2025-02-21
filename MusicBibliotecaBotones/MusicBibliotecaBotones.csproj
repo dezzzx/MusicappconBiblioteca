@@ -14,7 +14,7 @@
 
 	<ItemGroup>
 	  <Reference Include="LibreriaComponentesWPF">
-	    <HintPath>..\..\..\..\Downloads\LibreriaComponentesWPF\LibreriaComponentesWPF\bin\Debug\net8.0-windows\LibreriaComponentesWPF.dll</HintPath>
+	    <HintPath>..\..\..\..\...\LibreriaComponentesWPF\LibreriaComponentesWPF\bin\Debug\net8.0-windows\LibreriaComponentesWPF.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 
